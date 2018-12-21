@@ -1,0 +1,1420 @@
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9061"
+  },
+  "first_name": "WILL",
+  "last_name": "WILSON",
+  "date_of_birth": "1978-11-12",
+  "growth": 195.892,
+  "typical_role": [
+    "Criminal",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9062"
+  },
+  "first_name": "NICK",
+  "last_name": "WAHLBERG",
+  "date_of_birth": "1924-11-12",
+  "growth": 153.974,
+  "typical_role": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9063"
+  },
+  "first_name": "LAURA",
+  "last_name": "BRODY",
+  "date_of_birth": "1936-11-12",
+  "growth": 151.67,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Russia",
+      "State": "Komi"
+    },
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9064"
+  },
+  "first_name": "LIZA",
+  "last_name": "BERGMAN",
+  "date_of_birth": "1986-11-12",
+  "growth": 176.311,
+  "typical_role": [
+    "Fantasy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Poland"
+    },
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9065"
+  },
+  "first_name": "SPENCER",
+  "last_name": "PECK",
+  "date_of_birth": "1948-11-12",
+  "growth": 162.176,
+  "typical_role": [
+    "SciFi",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Russia",
+      "State": "Adygea"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9066"
+  },
+  "first_name": "FAY",
+  "last_name": "WOOD",
+  "date_of_birth": "1951-11-12",
+  "growth": 166.016,
+  "typical_role": [
+    "Criminal",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Poland"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9067"
+  },
+  "first_name": "BURT",
+  "last_name": "TEMPLE",
+  "date_of_birth": "1945-11-12",
+  "growth": 182.664,
+  "typical_role": [
+    "SciFi",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    },
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9068"
+  },
+  "first_name": "NICK",
+  "last_name": "WAHLBERG",
+  "date_of_birth": "1958-11-12",
+  "growth": 172.506,
+  "typical_role": [
+    "Fantasy",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Poland"
+    },
+    {
+      "Country": "USA",
+      "State": "Arizona"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9069"
+  },
+  "first_name": "MATTHEW",
+  "last_name": "CARREY",
+  "date_of_birth": "1993-11-12",
+  "growth": 153.357,
+  "typical_role": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe906a"
+  },
+  "first_name": "KIRSTEN",
+  "last_name": "AKROYD",
+  "date_of_birth": "1957-11-12",
+  "growth": 173.866,
+  "typical_role": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Russia",
+      "State": "Kursk"
+    },
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe906b"
+  },
+  "first_name": "RENEE",
+  "last_name": "TRACY",
+  "date_of_birth": "1996-11-12",
+  "growth": 159.926,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe906c"
+  },
+  "first_name": "ANGELINA",
+  "last_name": "ASTAIRE",
+  "date_of_birth": "1986-11-12",
+  "growth": 185.687,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    },
+    {
+      "Country": "Poland"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe906d"
+  },
+  "first_name": "CAMERON",
+  "last_name": "STREEP",
+  "date_of_birth": "1952-11-12",
+  "growth": 175.407,
+  "typical_role": [
+    "Comedy",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Poland"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe906e"
+  },
+  "first_name": "MORGAN",
+  "last_name": "WILLIAMS",
+  "date_of_birth": "1957-11-12",
+  "growth": 161.191,
+  "typical_role": [
+    "Fantasy",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe906f"
+  },
+  "first_name": "MAE",
+  "last_name": "HOFFMAN",
+  "date_of_birth": "1980-11-12",
+  "growth": 190.786,
+  "typical_role": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "Alaska"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9070"
+  },
+  "first_name": "BETTE",
+  "last_name": "NICHOLSON",
+  "date_of_birth": "1938-11-12",
+  "growth": 182.656,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Portugal"
+    },
+    {
+      "Country": "USA",
+      "State": "California"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9071"
+  },
+  "first_name": "BELA",
+  "last_name": "WALKEN",
+  "date_of_birth": "1948-11-12",
+  "growth": 186.139,
+  "typical_role": [
+    "Fantasy",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Poland"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9072"
+  },
+  "first_name": "GOLDIE",
+  "last_name": "BRODY",
+  "date_of_birth": "1941-11-12",
+  "growth": 194.225,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Russia",
+      "State": "Kursk"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9073"
+  },
+  "first_name": "FRANCES",
+  "last_name": "DAY-LEWIS",
+  "date_of_birth": "1997-11-12",
+  "growth": 167.236,
+  "typical_role": [
+    "Criminal",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    },
+    {
+      "Country": "USA",
+      "State": "Alabama"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9074"
+  },
+  "first_name": "PENELOPE",
+  "last_name": "MONROE",
+  "date_of_birth": "1968-11-12",
+  "growth": 155.786,
+  "typical_role": [
+    "Fantasy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    },
+    {
+      "Country": "USA",
+      "State": "Alaska"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9075"
+  },
+  "first_name": "BEN",
+  "last_name": "WILLIS",
+  "date_of_birth": "1963-11-12",
+  "growth": 195.902,
+  "typical_role": [
+    "SciFi",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9076"
+  },
+  "first_name": "WHOOPI",
+  "last_name": "HURT",
+  "date_of_birth": "1992-11-12",
+  "growth": 183.88,
+  "typical_role": [
+    "Criminal",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9077"
+  },
+  "first_name": "JOHNNY",
+  "last_name": "LOLLOBRIGIDA",
+  "date_of_birth": "1960-11-12",
+  "growth": 182.893,
+  "typical_role": [
+    "Criminal",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    },
+    {
+      "Country": "Poland"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9078"
+  },
+  "first_name": "KENNETH",
+  "last_name": "PALTROW",
+  "date_of_birth": "1972-11-12",
+  "growth": 152.82,
+  "typical_role": [
+    "SciFi",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9079"
+  },
+  "first_name": "GRETA",
+  "last_name": "MALDEN",
+  "date_of_birth": "1964-11-12",
+  "growth": 194.386,
+  "typical_role": [
+    "SciFi",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    },
+    {
+      "Country": "Russia",
+      "State": "Adygea"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe907a"
+  },
+  "first_name": "SALMA",
+  "last_name": "NOLTE",
+  "date_of_birth": "1970-11-12",
+  "growth": 195.829,
+  "typical_role": [
+    "Criminal",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    },
+    {
+      "Country": "USA",
+      "State": "California"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe907b"
+  },
+  "first_name": "HARVEY",
+  "last_name": "HOPE",
+  "date_of_birth": "1929-11-12",
+  "growth": 169.976,
+  "typical_role": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Poland"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe907c"
+  },
+  "first_name": "TOM",
+  "last_name": "MCKELLEN",
+  "date_of_birth": "1942-11-12",
+  "growth": 157.393,
+  "typical_role": [
+    "Comedy",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Russia",
+      "State": "Altai"
+    },
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe907d"
+  },
+  "first_name": "LIZA",
+  "last_name": "BERGMAN",
+  "date_of_birth": "1978-11-12",
+  "growth": 164.446,
+  "typical_role": [
+    "SciFi",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe907e"
+  },
+  "first_name": "SEAN",
+  "last_name": "WILLIAMS",
+  "date_of_birth": "1926-11-12",
+  "growth": 198.35,
+  "typical_role": [
+    "Fantasy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "Alabama"
+    },
+    {
+      "Country": "Russia",
+      "State": "Altai"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe907f"
+  },
+  "first_name": "WARREN",
+  "last_name": "JACKMAN",
+  "date_of_birth": "1948-11-12",
+  "growth": 170.441,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9080"
+  },
+  "first_name": "MILLA",
+  "last_name": "PECK",
+  "date_of_birth": "1995-11-12",
+  "growth": 192.603,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9081"
+  },
+  "first_name": "GREGORY",
+  "last_name": "GOODING",
+  "date_of_birth": "1970-11-12",
+  "growth": 190.968,
+  "typical_role": [
+    "Fantasy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9082"
+  },
+  "first_name": "ROCK",
+  "last_name": "DUKAKIS",
+  "date_of_birth": "1950-11-12",
+  "growth": 194.901,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "California"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9083"
+  },
+  "first_name": "SIDNEY",
+  "last_name": "CROWE",
+  "date_of_birth": "1962-11-12",
+  "growth": 179.275,
+  "typical_role": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9084"
+  },
+  "first_name": "SYLVESTER",
+  "last_name": "DERN",
+  "date_of_birth": "1946-11-12",
+  "growth": 189.41,
+  "typical_role": [
+    "SciFi",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9085"
+  },
+  "first_name": "ED",
+  "last_name": "MANSFIELD",
+  "date_of_birth": "1942-11-12",
+  "growth": 184.678,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    },
+    {
+      "Country": "Poland"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9086"
+  },
+  "first_name": "MENA",
+  "last_name": "HOPPER",
+  "date_of_birth": "1965-11-12",
+  "growth": 172.577,
+  "typical_role": [
+    "Fantasy",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Portugal"
+    },
+    {
+      "Country": "Spain"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9087"
+  },
+  "first_name": "MICHELLE",
+  "last_name": "MCCONAUGHEY",
+  "date_of_birth": "1967-11-12",
+  "growth": 159.216,
+  "typical_role": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Poland"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9088"
+  },
+  "first_name": "WHOOPI",
+  "last_name": "HURT",
+  "date_of_birth": "1935-11-12",
+  "growth": 179.14,
+  "typical_role": [
+    "SciFi",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9089"
+  },
+  "first_name": "NICK",
+  "last_name": "STALLONE",
+  "date_of_birth": "1981-11-12",
+  "growth": 169.991,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Poland"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe908a"
+  },
+  "first_name": "BURT",
+  "last_name": "POSEY",
+  "date_of_birth": "1983-11-12",
+  "growth": 155.033,
+  "typical_role": [
+    "Fantasy",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    },
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe908b"
+  },
+  "first_name": "CAMERON",
+  "last_name": "STREEP",
+  "date_of_birth": "1959-11-12",
+  "growth": 180.352,
+  "typical_role": [
+    "Fantasy",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "Alaska"
+    },
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe908c"
+  },
+  "first_name": "HUMPHREY",
+  "last_name": "WILLIS",
+  "date_of_birth": "1959-11-12",
+  "growth": 191.695,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Portugal"
+    },
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe908d"
+  },
+  "first_name": "SUSAN",
+  "last_name": "DAVIS",
+  "date_of_birth": "1946-11-12",
+  "growth": 178.634,
+  "typical_role": [
+    "Fantasy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    },
+    {
+      "Country": "USA",
+      "State": "Arizona"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe908e"
+  },
+  "first_name": "GROUCHO",
+  "last_name": "WILLIAMS",
+  "date_of_birth": "1940-11-12",
+  "growth": 152.581,
+  "typical_role": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Russia",
+      "State": "Kursk"
+    },
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe908f"
+  },
+  "first_name": "ANGELA",
+  "last_name": "HUDSON",
+  "date_of_birth": "1928-11-12",
+  "growth": 186.921,
+  "typical_role": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    },
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9090"
+  },
+  "first_name": "EWAN",
+  "last_name": "GOODING",
+  "date_of_birth": "1972-11-12",
+  "growth": 162.179,
+  "typical_role": [
+    "Fantasy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "Alabama"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9091"
+  },
+  "first_name": "NICK",
+  "last_name": "STALLONE",
+  "date_of_birth": "1973-11-12",
+  "growth": 183.3,
+  "typical_role": [
+    "Criminal",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "California"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9092"
+  },
+  "first_name": "WALTER",
+  "last_name": "TORN",
+  "date_of_birth": "1999-11-12",
+  "growth": 168.724,
+  "typical_role": [
+    "Fantasy",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "California"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9093"
+  },
+  "first_name": "FAY",
+  "last_name": "WOOD",
+  "date_of_birth": "1943-11-12",
+  "growth": 193.106,
+  "typical_role": [
+    "SciFi",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    },
+    {
+      "Country": "Russia",
+      "State": "Kursk"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9094"
+  },
+  "first_name": "HARRISON",
+  "last_name": "BALE",
+  "date_of_birth": "1921-11-12",
+  "growth": 189.982,
+  "typical_role": [
+    "Criminal",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Russia",
+      "State": "Kursk"
+    },
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9095"
+  },
+  "first_name": "IAN",
+  "last_name": "TANDY",
+  "date_of_birth": "1985-11-12",
+  "growth": 193.199,
+  "typical_role": [
+    "Criminal",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "Alabama"
+    },
+    {
+      "Country": "Russia",
+      "State": "Adygea"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9096"
+  },
+  "first_name": "JOHNNY",
+  "last_name": "LOLLOBRIGIDA",
+  "date_of_birth": "1945-11-12",
+  "growth": 183.439,
+  "typical_role": [
+    "Fantasy",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Russia",
+      "State": "Komi"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9097"
+  },
+  "first_name": "MINNIE",
+  "last_name": "ZELLWEGER",
+  "date_of_birth": "1941-11-12",
+  "growth": 189.831,
+  "typical_role": [
+    "Criminal",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    },
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9098"
+  },
+  "first_name": "HARVEY",
+  "last_name": "HOPE",
+  "date_of_birth": "1965-11-12",
+  "growth": 153.98,
+  "typical_role": [
+    "Criminal",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "Alabama"
+    },
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe9099"
+  },
+  "first_name": "CUBA",
+  "last_name": "BIRCH",
+  "date_of_birth": "1959-11-12",
+  "growth": 195.267,
+  "typical_role": [
+    "Fantasy",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "Alabama"
+    },
+    {
+      "Country": "Poland"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe909a"
+  },
+  "first_name": "GENE",
+  "last_name": "MCKELLEN",
+  "date_of_birth": "1927-11-12",
+  "growth": 164.181,
+  "typical_role": [
+    "Criminal",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    },
+    {
+      "Country": "Russia",
+      "State": "Komi"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe909b"
+  },
+  "first_name": "JAYNE",
+  "last_name": "NOLTE",
+  "date_of_birth": "1953-11-12",
+  "growth": 196.302,
+  "typical_role": [
+    "SciFi",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe909c"
+  },
+  "first_name": "JAYNE",
+  "last_name": "NOLTE",
+  "date_of_birth": "1953-11-12",
+  "growth": 176.19,
+  "typical_role": [
+    "Comedy",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Russia",
+      "State": "Komi"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe909d"
+  },
+  "first_name": "CAMERON",
+  "last_name": "ZELLWEGER",
+  "date_of_birth": "1946-11-12",
+  "growth": 174.579,
+  "typical_role": [
+    "Criminal",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    },
+    {
+      "Country": "USA",
+      "State": "California"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe909e"
+  },
+  "first_name": "ALBERT",
+  "last_name": "NOLTE",
+  "date_of_birth": "1989-11-12",
+  "growth": 187.137,
+  "typical_role": [
+    "Fantasy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "California"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe909f"
+  },
+  "first_name": "DUSTIN",
+  "last_name": "TAUTOU",
+  "date_of_birth": "1949-11-12",
+  "growth": 160.948,
+  "typical_role": [
+    "Criminal",
+    "Fantasy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe90a0"
+  },
+  "first_name": "VAL",
+  "last_name": "BOLGER",
+  "date_of_birth": "1942-11-12",
+  "growth": 162.839,
+  "typical_role": [
+    "SciFi",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "Arizona"
+    },
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe90a1"
+  },
+  "first_name": "WILL",
+  "last_name": "WILSON",
+  "date_of_birth": "1943-11-12",
+  "growth": 161.035,
+  "typical_role": [
+    "Criminal",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Russia",
+      "State": "Kursk"
+    },
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe90a2"
+  },
+  "first_name": "VIVIEN",
+  "last_name": "BASINGER",
+  "date_of_birth": "1959-11-12",
+  "growth": 194.218,
+  "typical_role": [
+    "SciFi",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Australia"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe90a3"
+  },
+  "first_name": "GROUCHO",
+  "last_name": "WILLIAMS",
+  "date_of_birth": "1924-11-12",
+  "growth": 172.969,
+  "typical_role": [
+    "Fantasy",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "Alaska"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe90a4"
+  },
+  "first_name": "WOODY",
+  "last_name": "JOLIE",
+  "date_of_birth": "1965-11-12",
+  "growth": 164.569,
+  "typical_role": [
+    "SciFi",
+    "Criminal"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Russia",
+      "State": "Kursk"
+    },
+    {
+      "Country": "USA",
+      "State": "Alabama"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe90a5"
+  },
+  "first_name": "JON",
+  "last_name": "CHASE",
+  "date_of_birth": "1969-11-12",
+  "growth": 160.998,
+  "typical_role": [
+    "Fantasy",
+    "Comedy"
+  ],
+  "nationality: ": [
+    {
+      "Country": "USA",
+      "State": "California"
+    },
+    {
+      "Country": "Spain"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe90a6"
+  },
+  "first_name": "MINNIE",
+  "last_name": "KILMER",
+  "date_of_birth": "1962-11-12",
+  "growth": 189.19,
+  "typical_role": [
+    "Comedy",
+    "SciFi"
+  ],
+  "nationality: ": [
+    {
+      "Country": "Spain"
+    },
+    {
+      "Country": "Portugal"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe90a7"
+  },
+  "first_name": "Al"
+}
+{
+  "_id": {
+    "$oid": "5c1bbfd7994e9803c8fe90a8"
+  },
+  "first_name": "Hugh",
+  "nationality": [
+    {
+      "Country": "Australia"
+    }
+  ]
+}

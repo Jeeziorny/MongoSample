@@ -1,0 +1,315 @@
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8084"
+  },
+  "first_name": "WARREN",
+  "last_name": "JACKMAN",
+  "nationalities": [
+    {
+      "Country": "USA",
+      "State": "California"
+    },
+    {
+      "Country": "Spain"
+    }
+  ],
+  "current_clients": [
+    "RENEE TRACY",
+    "ANGELINA ASTAIRE",
+    "CAMERON STREEP"
+  ],
+  "old_clients": [
+    {
+      "Old client": "BEN WILLIS",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "WHOOPI HURT",
+      "status": "No current contract"
+    }
+  ],
+  "corporation": "corpo 2"
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8085"
+  },
+  "first_name": "MILLA",
+  "last_name": "PECK",
+  "nationalities": [
+    {
+      "Country": "Poland"
+    },
+    {
+      "Country": "Spain"
+    }
+  ],
+  "current_clients": [
+    "RENEE TRACY",
+    "ANGELINA ASTAIRE",
+    "CAMERON STREEP"
+  ],
+  "old_clients": [
+    {
+      "Old client": "BEN WILLIS",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "WHOOPI HURT",
+      "status": "No current contract"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8086"
+  },
+  "first_name": "GREGORY",
+  "last_name": "GOODING",
+  "nationalities": [
+    {
+      "Country": "Russia",
+      "State": "Adygea"
+    },
+    {
+      "Country": "Poland"
+    }
+  ],
+  "current_clients": [
+    "RENEE TRACY",
+    "ANGELINA ASTAIRE"
+  ],
+  "old_clients": [
+    {
+      "Old client": "BEN WILLIS",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "WHOOPI HURT",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "JOHNNY LOLLOBRIGIDA",
+      "status": "No current contract"
+    }
+  ],
+  "corporation": "corpo 2"
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8087"
+  },
+  "first_name": "ROCK",
+  "last_name": "DUKAKIS",
+  "nationalities": [
+    {
+      "Country": "Portugal"
+    },
+    {
+      "Country": "USA",
+      "State": "Arizona"
+    }
+  ],
+  "current_clients": [
+    "RENEE TRACY",
+    "ANGELINA ASTAIRE",
+    "CAMERON STREEP"
+  ],
+  "old_clients": [
+    {
+      "Old client": "BEN WILLIS",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "WHOOPI HURT",
+      "status": "No current contract"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8088"
+  },
+  "first_name": "SIDNEY",
+  "last_name": "CROWE",
+  "nationalities": [
+    {
+      "Country": "Russia",
+      "State": "Komi"
+    }
+  ],
+  "current_clients": [
+    "RENEE TRACY",
+    "ANGELINA ASTAIRE"
+  ],
+  "old_clients": [
+    {
+      "Old client": "BEN WILLIS",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "WHOOPI HURT",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "JOHNNY LOLLOBRIGIDA",
+      "status": "No current contract"
+    }
+  ],
+  "corporation": "corpo 1"
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8089"
+  },
+  "first_name": "SYLVESTER",
+  "last_name": "DERN",
+  "nationalities": [
+    {
+      "Country": "USA",
+      "State": "California"
+    },
+    {
+      "Country": "Portugal"
+    }
+  ],
+  "current_clients": [
+    "RENEE TRACY",
+    "ANGELINA ASTAIRE"
+  ],
+  "old_clients": [
+    {
+      "Old client": "BEN WILLIS",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "WHOOPI HURT",
+      "status": "No current contract"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b808a"
+  },
+  "first_name": "ED",
+  "last_name": "MANSFIELD",
+  "nationalities": [
+    {
+      "Country": "Poland"
+    }
+  ],
+  "current_clients": [
+    "RENEE TRACY",
+    "ANGELINA ASTAIRE",
+    "CAMERON STREEP"
+  ],
+  "old_clients": [
+    {
+      "Old client": "BEN WILLIS",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "WHOOPI HURT",
+      "status": "No current contract"
+    }
+  ],
+  "corporation": "corpo 2"
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b808b"
+  },
+  "first_name": "MENA",
+  "last_name": "HOPPER",
+  "nationalities": [
+    {
+      "Country": "USA",
+      "State": "Alaska"
+    },
+    {
+      "Country": "Portugal"
+    }
+  ],
+  "current_clients": [
+    "RENEE TRACY",
+    "ANGELINA ASTAIRE"
+  ],
+  "old_clients": [
+    {
+      "Old client": "BEN WILLIS",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "WHOOPI HURT",
+      "status": "No current contract"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b808c"
+  },
+  "first_name": "MICHELLE",
+  "last_name": "MCCONAUGHEY",
+  "nationalities": [
+    {
+      "Country": "Russia",
+      "State": "Adygea"
+    }
+  ],
+  "current_clients": [
+    "RENEE TRACY",
+    "ANGELINA ASTAIRE",
+    "CAMERON STREEP"
+  ],
+  "old_clients": [
+    {
+      "Old client": "BEN WILLIS",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "WHOOPI HURT",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "JOHNNY LOLLOBRIGIDA",
+      "status": "No current contract"
+    }
+  ],
+  "corporation": "corpo 1"
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b808d"
+  },
+  "first_name": "WHOOPI",
+  "last_name": "HURT",
+  "nationalities": [
+    {
+      "Country": "Spain"
+    },
+    {
+      "Country": "USA",
+      "State": "Alaska"
+    }
+  ],
+  "current_clients": [
+    "RENEE TRACY",
+    "ANGELINA ASTAIRE"
+  ],
+  "old_clients": [
+    {
+      "Old client": "BEN WILLIS",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "WHOOPI HURT",
+      "status": "No current contract"
+    },
+    {
+      "Old client": "JOHNNY LOLLOBRIGIDA",
+      "status": "No current contract"
+    }
+  ]
+}

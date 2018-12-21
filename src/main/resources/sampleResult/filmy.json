@@ -1,0 +1,756 @@
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8070"
+  },
+  "title": "ACADEMY DINOSAUR",
+  "release_date": "2013-9-201",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "DUSTIN"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8071"
+  },
+  "title": "ACE GOLDFINGER",
+  "release_date": "2006-3-11",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "DUSTIN"
+    },
+    {
+      "actor": "MATTHEW CARREY",
+      "Role in film": "ALBERT"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8072"
+  },
+  "title": "ADAPTATION HOLES",
+  "release_date": "2012-6-241",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "DUSTIN"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8073"
+  },
+  "title": "AFFAIR PREJUDICE",
+  "release_date": "2001",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8074"
+  },
+  "title": "AFRICAN EGG",
+  "release_date": "1988",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "DUSTIN"
+    },
+    {
+      "actor": "MATTHEW CARREY",
+      "Role in film": "ALBERT"
+    },
+    {
+      "actor": "KIRSTEN AKROYD",
+      "Role in film": "CAMERON"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8075"
+  },
+  "title": "AGENT TRUMAN",
+  "release_date": "2002",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8076"
+  },
+  "title": "AIRPLANE SIERRA",
+  "release_date": "2014",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8077"
+  },
+  "title": "AIRPORT POLLOCK",
+  "release_date": "2010",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8078"
+  },
+  "title": "ALABAMA DEVIL",
+  "release_date": "2017",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "DUSTIN"
+    },
+    {
+      "actor": "MATTHEW CARREY",
+      "Role in film": "ALBERT"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8079"
+  },
+  "title": "ALADDIN CALENDAR",
+  "release_date": "2002",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b807a"
+  },
+  "title": "ALAMO VIDEOTAPE",
+  "release_date": "1986-10-261",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "DUSTIN"
+    },
+    {
+      "actor": "MATTHEW CARREY",
+      "Role in film": "ALBERT"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b807b"
+  },
+  "title": "ALASKA PHANTOM",
+  "release_date": "1999",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "DUSTIN"
+    },
+    {
+      "actor": "MATTHEW CARREY",
+      "Role in film": "ALBERT"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b807c"
+  },
+  "title": "ALI FOREVER",
+  "release_date": "1987-7-91",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b807d"
+  },
+  "title": "ALICE FANTASIA",
+  "release_date": "1986-9-31",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b807e"
+  },
+  "title": "ALIEN CENTER",
+  "release_date": "1984-6-221",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "DUSTIN"
+    },
+    {
+      "actor": "MATTHEW CARREY",
+      "Role in film": "ALBERT"
+    },
+    {
+      "actor": "KIRSTEN AKROYD",
+      "Role in film": "CAMERON"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b807f"
+  },
+  "title": "ALLEY EVOLUTION",
+  "release_date": "1981",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8080"
+  },
+  "title": "ALONE TRIP",
+  "release_date": "2011-8-181",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8081"
+  },
+  "title": "ALTER VICTORY",
+  "release_date": "1987-5-221",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8082"
+  },
+  "title": "AMADEUS HOLY",
+  "release_date": "1995",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c1aa03820d67e20281b8083"
+  },
+  "title": "AMELIE HELLFIGHTERS",
+  "release_date": "1999-2-191",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor": "WILL WILSON",
+      "Role in film": "MINNIE"
+    },
+    {
+      "actor": "NICK WAHLBERG",
+      "Role in film": "JON"
+    },
+    {
+      "actor": "LAURA BRODY",
+      "Role in film": "WOODY"
+    },
+    {
+      "actor": "LIZA BERGMAN",
+      "Role in film": "GROUCHO"
+    },
+    {
+      "actor": "SPENCER PECK",
+      "Role in film": "VIVIEN"
+    },
+    {
+      "actor": "FAY WOOD",
+      "Role in film": "WILL"
+    },
+    {
+      "actor": "BURT TEMPLE",
+      "Role in film": "VAL"
+    }
+  ]
+}
