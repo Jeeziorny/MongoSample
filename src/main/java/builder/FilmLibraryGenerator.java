@@ -91,13 +91,17 @@ public class FilmLibraryGenerator implements DatabaseGenerator {
   }
 
   private ArrayList<Document> getCast() {
-    Person[] actors = dataGenerator.getPersons();
-    int size = actors.length - 1;
+    ArrayList<Person> actors = new ArrayList<Person>(Arrays.asList(dataGenerator.getPersons()));
     ArrayList<Document> result = new ArrayList<Document>();
     final int limit = randGenerator.nextInt(7)+4;
-    for (int i = 0; i < limit; i++, size--) {
-      result.add(new Document("actor", actors[i].getFirst_name()+" "+actors[i].getLast_name())
-                        .append("Role in film", actors[size].getFirst_name()));
+    int rand = randGenerator.nextInt(40);
+    for (int i = 0; i < limit; i++) {
+      result.add(new Document("actor_name", actors.get(rand).getFirst_name())
+                        .append("actor_last_name", actors.get(rand).getLast_name())
+                        .append("Role in film", actors
+                                .get(randGenerator.nextInt(40)).getFirst_name()));
+      actors.remove(rand);
+      rand = randGenerator.nextInt(40);
     }
     return result;
   }

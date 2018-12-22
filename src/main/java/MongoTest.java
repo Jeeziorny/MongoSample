@@ -1,23 +1,23 @@
-import builder.BookstoreGenerator;
-import builder.FilmLibraryGenerator;
 import builder.DatabaseGenerator;
-import com.mongodb.BasicDBObject;
-import com.mongodb.DBCursor;
-import com.mongodb.DBObject;
+import com.mongodb.*;
 import com.mongodb.MongoClient;
-import com.mongodb.client.FindIterable;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoDatabase;
-import com.mongodb.client.MongoIterable;
+import com.mongodb.client.*;
+import com.mongodb.client.model.Aggregates;
+import com.mongodb.client.model.Updates;
+import com.mongodb.client.result.DeleteResult;
+import com.mongodb.client.result.UpdateResult;
 import org.bson.Document;
+import org.bson.conversions.Bson;
+import org.bson.types.ObjectId;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import static com.mongodb.client.model.Filters.*;
-import static com.mongodb.client.model.Projections.exclude;
 import static com.mongodb.client.model.Projections.include;
 import static java.lang.Thread.sleep;
+import static java.util.Arrays.asList;
 
 public class MongoTest { //Director
   private DatabaseGenerator generator;
@@ -38,17 +38,21 @@ public class MongoTest { //Director
 
   public static void main(String[] args) {
     MongoClient mongoClient = new MongoClient();
-    mongoClient.dropDatabase("MFilmLibrary");
-    mongoClient.dropDatabase("MBookstore");
-    DatabaseGenerator generator = new FilmLibraryGenerator(mongoClient);
-    MongoTest director = new MongoTest(generator);
-    FilmLibraryDB = director.construct();
-    director.setGenerator(new BookstoreGenerator(mongoClient));
-    BookstoreDB = director.construct();
+//    mongoClient.dropDatabase("MFilmLibrary");
+//    mongoClient.dropDatabase("MBookstore");
+//    DatabaseGenerator generator = new FilmLibraryGenerator(mongoClient);
+//    MongoTest director = new MongoTest(generator);
+    FilmLibraryDB = mongoClient.getDatabase("MFilmLibrary");
+//    director.setGenerator(new BookstoreGenerator(mongoClient));
+    BookstoreDB = mongoClient.getDatabase("MBookstore");
 
     showCollectionInFilmLibrary();
     showFilmWithDirector();
     queryActors();
+    queryFilms();
+    harrisMovie();
+    dropActors();
+    deleteFederalInformation();
 
 
     try {
@@ -82,7 +86,7 @@ public class MongoTest { //Director
 
   /**
    * Exercise 8
-   * SELECT * \ "_id"
+   * SELECT first_name, last_name, nationality
    * FROM actors
    * WHERE (first_name = Hugh
    *        AND "australian" IN nationality)
@@ -120,9 +124,71 @@ public class MongoTest { //Director
    * more than 7 people
    * surpressing first result
    */
-//  private static void queryFilms() {
-//    MongoCollection<Document> films = FilmLibraryDB.getCollection("films");
-//    DBObject query = new BasicDBObject("otherInfo.text", new BasicDBObject("$exists", true));
-//    FindIterable result = films.find()
-//  }
+  private static void queryFilms() {
+    MongoCollection<Document> films = FilmLibraryDB.getCollection("films");
+    FindIterable<Document> result = films.find(eq("cast.8", new Document("$exists", true)));
+    for (Document document : result) {
+      System.out.println(document.get("title"));
+    }
+  }
+
+  /** Exercise 10
+   * For each actor with last_name == "Harris"
+   * print first name, last name and titles
+   * where he or she played.
+  */
+  private static void harrisMovie() {
+    MongoCollection actors = FilmLibraryDB.getCollection("actors");
+    Bson LastNameLookup = new Document("$lookup",
+                    new Document("from", "films"  )
+                    .append("localField", "last_name")
+                    .append("foreignField", "cast.actor_last_name")
+                    .append("as", "movies"));
+    Bson FirstNameLookup = new Document("$lookup",
+            new Document("from", "films"  )
+                    .append("localField", "first_name")
+                    .append("foreignField", "cast.actor_name")
+                    .append("as", "movies"));
+    Bson LastNameMatch = new Document("last_name", "Harris");
+    AggregateIterable<Document> temp = actors
+            .aggregate(asList(LastNameLookup, FirstNameLookup,
+                    Aggregates.match(LastNameMatch)));
+    for (Document document : temp) {
+      System.out.println(document.get("first_name")+" "
+              +document.get("last_name")+" "
+              +document.get("nationality"));
+      List<Document> titles = (ArrayList<Document>) document.get("movies");
+      for (Document film : titles) {
+        System.out.print(film.get("title")+", ");
+      }
+      System.out.println("");
+    }
+  }
+
+  /** Exercise 11
+   * delete actors from actors collection,
+   * who has ['comedy', 'criminal'] in
+   * typical roles
+   */
+  private static void dropActors() {
+    MongoCollection<Document> actors = FilmLibraryDB.getCollection("actors");
+    DeleteResult result = actors.deleteMany(eq("typical_role", asList("Criminal", "Comedy")));
+    System.out.println("deleted: "+result.getDeletedCount());
+  }
+
+  /** Exercise 12
+   * Replaces field STATE in nationality array
+   * if Country == Russia to "Russia"
+   */
+  private static void deleteFederalInformation() {
+    MongoCollection<Document> actors = FilmLibraryDB
+            .getCollection("actors");
+    Document query = new Document();
+    query.put("nationality.Country", "Russia");
+    Document data = new Document();
+    data.put("nationality.$.State", "Russia");
+    Document command = new Document();
+    command.put("$set", data);
+    actors.updateMany(query, command);
+  }
 }
