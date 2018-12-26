@@ -5,6 +5,7 @@ public class Person {
   private String last_name;
   private String dateOfBirth;
   private double growth;
+  private int age;
 
   public Person(String f, String l, String d, double g) {
     this.first_name = f;

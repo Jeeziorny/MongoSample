@@ -11,6 +11,7 @@ import model.Title;
 import org.bson.Document;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Random;
 
 public class BookstoreGenerator implements DatabaseGenerator {
@@ -31,6 +32,7 @@ public class BookstoreGenerator implements DatabaseGenerator {
 
   public DatabaseGenerator setDocuments() {
     insertBooks();
+    insertBooksForQuering();
     return this;
   }
 
@@ -54,5 +56,15 @@ public class BookstoreGenerator implements DatabaseGenerator {
       result.add(characters[randGenerator.nextInt(20)+25].getFirst_name());
     }
     return result;
+  }
+
+  private void insertBooksForQuering() {
+    ArrayList<String> main_char =
+            new ArrayList<String>();
+    main_char.addAll(Arrays.asList("rectangle", "square"));
+    MBookstore.getCollection("books").insertOne(new Document("author", "Steve")
+                          .append("title", "CIRCLE")
+                          .append("release_date", "2000")
+                          .append("main_characters", main_char));
   }
 }

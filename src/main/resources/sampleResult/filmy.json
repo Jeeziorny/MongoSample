@@ -1,880 +1,865 @@
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6632"
+    "$oid": "5c23dd983d6b7e1694bef340"
+  },
+  "title": "CIRCLE",
+  "release_date": "2020",
+  "film_director": "Rafal Maserak",
+  "cast": [
+    {
+      "actor_name": "Mark",
+      "actor_last_name": "Maco",
+      "role_in_film": "square"
+    },
+    {
+      "actor_name": "Tony",
+      "actor_last_name": "Jake",
+      "role_in_film": "rectangle"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23dd983d6b7e1694bef341"
   },
   "title": "ACADEMY DINOSAUR",
-  "release_date": "1998",
-  "film_director": "Mark Knopfler",
+  "release_date": "1999",
+  "film_director": "Tom Jones",
   "cast": [
     {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "actor_name": "ANGELINA",
+      "actor_last_name": "ASTAIRE",
+      "role_in_film": "BETTE"
     },
     {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "actor_name": "SIDNEY",
+      "actor_last_name": "CROWE",
+      "role_in_film": "BELA"
     },
     {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "actor_name": "WARREN",
+      "actor_last_name": "JACKMAN",
+      "role_in_film": "MENA"
     },
     {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
+      "actor_name": "SALMA",
+      "actor_last_name": "NOLTE",
+      "role_in_film": "MICHELLE"
+    },
+    {
+      "actor_name": "MICHELLE",
+      "actor_last_name": "MCCONAUGHEY",
+      "role_in_film": "SEAN"
+    },
+    {
+      "actor_name": "BURT",
+      "actor_last_name": "TEMPLE",
+      "role_in_film": "KIRSTEN"
     },
     {
       "actor_name": "SPENCER",
       "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
+      "role_in_film": "HARVEY"
+    },
+    {
+      "actor_name": "SYLVESTER",
+      "actor_last_name": "DERN",
+      "role_in_film": "FRANCES"
+    },
+    {
+      "actor_name": "HARVEY",
+      "actor_last_name": "HOPE",
+      "role_in_film": "GREGORY"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6633"
+    "$oid": "5c23dd983d6b7e1694bef342"
   },
   "title": "ACE GOLDFINGER",
-  "release_date": "2009-8-211",
+  "release_date": "2017-4-51",
   "film_director": "Tom Jones",
   "cast": [
     {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "actor_name": "ROCK",
+      "actor_last_name": "DUKAKIS",
+      "role_in_film": "NICK"
     },
     {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "actor_name": "WHOOPI",
+      "actor_last_name": "HURT",
+      "role_in_film": "MAE"
+    },
+    {
+      "actor_name": "KIRSTEN",
+      "actor_last_name": "AKROYD",
+      "role_in_film": "MENA"
+    },
+    {
+      "actor_name": "HARVEY",
+      "actor_last_name": "HOPE",
+      "role_in_film": "FAY"
+    },
+    {
+      "actor_name": "HUMPHREY",
+      "actor_last_name": "WILLIS",
+      "role_in_film": "WILL"
+    },
+    {
+      "actor_name": "CAMERON",
+      "actor_last_name": "STREEP",
+      "role_in_film": "SUSAN"
     },
     {
       "actor_name": "LAURA",
       "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "role_in_film": "MENA"
     },
     {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    },
-    {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
-    },
-    {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
-    },
-    {
-      "actor_name": "BURT",
-      "actor_last_name": "TEMPLE",
-      "Role in film": "VAL"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "DUSTIN"
-    },
-    {
-      "actor_name": "MATTHEW",
-      "actor_last_name": "CARREY",
-      "Role in film": "ALBERT"
+      "actor_name": "JOHNNY",
+      "actor_last_name": "LOLLOBRIGIDA",
+      "role_in_film": "MATTHEW"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6634"
+    "$oid": "5c23dd983d6b7e1694bef343"
   },
   "title": "ADAPTATION HOLES",
-  "release_date": "1982",
-  "film_director": "Mark Knopfler",
+  "release_date": "1979",
+  "film_director": "Tom Jones",
   "cast": [
     {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "actor_name": "WHOOPI",
+      "actor_last_name": "HURT",
+      "role_in_film": "MAE"
+    },
+    {
+      "actor_name": "WHOOPI",
+      "actor_last_name": "HURT",
+      "role_in_film": "LIZA"
+    },
+    {
+      "actor_name": "GRETA",
+      "actor_last_name": "MALDEN",
+      "role_in_film": "BEN"
+    },
+    {
+      "actor_name": "CAMERON",
+      "actor_last_name": "STREEP",
+      "role_in_film": "SEAN"
     },
     {
       "actor_name": "NICK",
       "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "role_in_film": "BURT"
     },
     {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "actor_name": "NICK",
+      "actor_last_name": "STALLONE",
+      "role_in_film": "KIRSTEN"
     },
     {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    },
-    {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
-    },
-    {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
-    },
-    {
-      "actor_name": "BURT",
-      "actor_last_name": "TEMPLE",
-      "Role in film": "VAL"
+      "actor_name": "NICK",
+      "actor_last_name": "WAHLBERG",
+      "role_in_film": "HARVEY"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6635"
+    "$oid": "5c23dd983d6b7e1694bef344"
   },
   "title": "AFFAIR PREJUDICE",
-  "release_date": "1982",
+  "release_date": "1983-6-101",
   "film_director": "Mark Knopfler",
   "cast": [
     {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "actor_name": "MORGAN",
+      "actor_last_name": "WILLIAMS",
+      "role_in_film": "ANGELINA"
     },
     {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "actor_name": "WHOOPI",
+      "actor_last_name": "HURT",
+      "role_in_film": "WARREN"
     },
     {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "actor_name": "HARVEY",
+      "actor_last_name": "HOPE",
+      "role_in_film": "BELA"
     },
     {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
+      "actor_name": "GRETA",
+      "actor_last_name": "MALDEN",
+      "role_in_film": "MAE"
     },
     {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
+      "actor_name": "MATTHEW",
+      "actor_last_name": "CARREY",
+      "role_in_film": "MENA"
+    },
+    {
+      "actor_name": "JOHNNY",
+      "actor_last_name": "LOLLOBRIGIDA",
+      "role_in_film": "KIRSTEN"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6636"
+    "$oid": "5c23dd983d6b7e1694bef345"
   },
   "title": "AFRICAN EGG",
-  "release_date": "2013-2-151",
-  "film_director": "Tom Jones",
+  "release_date": "2008-5-221",
+  "film_director": "Mark Knopfler",
   "cast": [
     {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "actor_name": "MENA",
+      "actor_last_name": "HOPPER",
+      "role_in_film": "MENA"
     },
     {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "actor_name": "HARVEY",
+      "actor_last_name": "HOPE",
+      "role_in_film": "HARVEY"
     },
     {
-      "actor_name": "LAURA",
+      "actor_name": "MATTHEW",
+      "actor_last_name": "CARREY",
+      "role_in_film": "LIZA"
+    },
+    {
+      "actor_name": "GOLDIE",
       "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "role_in_film": "KENNETH"
     },
     {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
+      "actor_name": "GRETA",
+      "actor_last_name": "MALDEN",
+      "role_in_film": "SIDNEY"
     },
     {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
-    },
-    {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
+      "actor_name": "SYLVESTER",
+      "actor_last_name": "DERN",
+      "role_in_film": "ED"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6637"
+    "$oid": "5c23dd983d6b7e1694bef346"
   },
   "title": "AGENT TRUMAN",
-  "release_date": "2002",
-  "film_director": "Tom Jones",
+  "release_date": "1999",
+  "film_director": "Mark Knopfler",
   "cast": [
+    {
+      "actor_name": "WARREN",
+      "actor_last_name": "JACKMAN",
+      "role_in_film": "SPENCER"
+    },
+    {
+      "actor_name": "NICK",
+      "actor_last_name": "WAHLBERG",
+      "role_in_film": "ROCK"
+    },
+    {
+      "actor_name": "BELA",
+      "actor_last_name": "WALKEN",
+      "role_in_film": "BEN"
+    },
+    {
+      "actor_name": "WHOOPI",
+      "actor_last_name": "HURT",
+      "role_in_film": "SALMA"
+    },
     {
       "actor_name": "WILL",
       "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
-    },
-    {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
-    },
-    {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    },
-    {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
-    },
-    {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
+      "role_in_film": "MATTHEW"
     },
     {
       "actor_name": "BURT",
-      "actor_last_name": "TEMPLE",
-      "Role in film": "VAL"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "DUSTIN"
-    },
-    {
-      "actor_name": "MATTHEW",
-      "actor_last_name": "CARREY",
-      "Role in film": "ALBERT"
-    },
-    {
-      "actor_name": "KIRSTEN",
-      "actor_last_name": "AKROYD",
-      "Role in film": "CAMERON"
+      "actor_last_name": "POSEY",
+      "role_in_film": "CAMERON"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6638"
+    "$oid": "5c23dd983d6b7e1694bef347"
   },
   "title": "AIRPLANE SIERRA",
-  "release_date": "2004",
+  "release_date": "2005-6-21",
   "film_director": "Tom Jones",
   "cast": [
     {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "actor_name": "CAMERON",
+      "actor_last_name": "STREEP",
+      "role_in_film": "SIDNEY"
     },
     {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "actor_name": "ROCK",
+      "actor_last_name": "DUKAKIS",
+      "role_in_film": "SPENCER"
     },
     {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "actor_name": "KENNETH",
+      "actor_last_name": "PALTROW",
+      "role_in_film": "SYLVESTER"
     },
     {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
+      "actor_name": "SYLVESTER",
+      "actor_last_name": "DERN",
+      "role_in_film": "MILLA"
     },
     {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
+      "actor_name": "WHOOPI",
+      "actor_last_name": "HURT",
+      "role_in_film": "FRANCES"
     },
     {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
-    },
-    {
-      "actor_name": "BURT",
-      "actor_last_name": "TEMPLE",
-      "Role in film": "VAL"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "DUSTIN"
-    },
-    {
-      "actor_name": "MATTHEW",
-      "actor_last_name": "CARREY",
-      "Role in film": "ALBERT"
-    },
-    {
-      "actor_name": "KIRSTEN",
-      "actor_last_name": "AKROYD",
-      "Role in film": "CAMERON"
+      "actor_name": "PENELOPE",
+      "actor_last_name": "MONROE",
+      "role_in_film": "GOLDIE"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6639"
+    "$oid": "5c23dd983d6b7e1694bef348"
   },
   "title": "AIRPORT POLLOCK",
-  "release_date": "1989",
+  "release_date": "1993",
   "film_director": "Tom Jones",
   "cast": [
     {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "actor_name": "SIDNEY",
+      "actor_last_name": "CROWE",
+      "role_in_film": "ED"
     },
     {
       "actor_name": "NICK",
       "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "role_in_film": "LIZA"
     },
     {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "actor_name": "MICHELLE",
+      "actor_last_name": "MCCONAUGHEY",
+      "role_in_film": "SALMA"
     },
     {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
+      "actor_name": "NICK",
+      "actor_last_name": "STALLONE",
+      "role_in_film": "LIZA"
     },
     {
-      "actor_name": "SPENCER",
+      "actor_name": "MILLA",
       "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
-    },
-    {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
-    },
-    {
-      "actor_name": "BURT",
-      "actor_last_name": "TEMPLE",
-      "Role in film": "VAL"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "DUSTIN"
-    },
-    {
-      "actor_name": "MATTHEW",
-      "actor_last_name": "CARREY",
-      "Role in film": "ALBERT"
-    },
-    {
-      "actor_name": "KIRSTEN",
-      "actor_last_name": "AKROYD",
-      "Role in film": "CAMERON"
+      "role_in_film": "MENA"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad663a"
+    "$oid": "5c23dd983d6b7e1694bef349"
   },
   "title": "ALABAMA DEVIL",
-  "release_date": "1991",
+  "release_date": "1988",
   "film_director": "Mark Knopfler",
   "cast": [
     {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "actor_name": "KENNETH",
+      "actor_last_name": "PALTROW",
+      "role_in_film": "NICK"
     },
     {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
-    },
-    {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "actor_name": "SIDNEY",
+      "actor_last_name": "CROWE",
+      "role_in_film": "MATTHEW"
     },
     {
       "actor_name": "LIZA",
       "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
+      "role_in_film": "TOM"
     },
     {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
+      "actor_name": "GOLDIE",
+      "actor_last_name": "BRODY",
+      "role_in_film": "BETTE"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad663b"
+    "$oid": "5c23dd983d6b7e1694bef34a"
   },
   "title": "ALADDIN CALENDAR",
-  "release_date": "2012-8-141",
-  "film_director": "Tom Jones",
-  "cast": [
-    {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
-    },
-    {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
-    },
-    {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    },
-    {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
-    },
-    {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
-    },
-    {
-      "actor_name": "BURT",
-      "actor_last_name": "TEMPLE",
-      "Role in film": "VAL"
-    }
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad663c"
-  },
-  "title": "ALAMO VIDEOTAPE",
-  "release_date": "2000",
+  "release_date": "1989",
   "film_director": "Mark Knopfler",
   "cast": [
     {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
-    },
-    {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "actor_name": "BELA",
+      "actor_last_name": "WALKEN",
+      "role_in_film": "MORGAN"
     },
     {
       "actor_name": "LIZA",
       "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    }
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad663d"
-  },
-  "title": "ALASKA PHANTOM",
-  "release_date": "2007-3-111",
-  "film_director": "Tom Jones",
-  "cast": [
-    {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "role_in_film": "HARVEY"
     },
     {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "actor_name": "BETTE",
+      "actor_last_name": "NICHOLSON",
+      "role_in_film": "NICK"
     },
     {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "actor_name": "RENEE",
+      "actor_last_name": "TRACY",
+      "role_in_film": "CAMERON"
     },
     {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    }
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad663e"
-  },
-  "title": "ALI FOREVER",
-  "release_date": "2001",
-  "film_director": "Mark Knopfler",
-  "cast": [
-    {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
-    },
-    {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
-    },
-    {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    },
-    {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
-    },
-    {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
-    }
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad663f"
-  },
-  "title": "ALICE FANTASIA",
-  "release_date": "2010-3-111",
-  "film_director": "Tom Jones",
-  "cast": [
-    {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
-    },
-    {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
-    },
-    {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    },
-    {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
-    },
-    {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
-    }
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6640"
-  },
-  "title": "ALIEN CENTER",
-  "release_date": "1987-12-51",
-  "film_director": "Mark Knopfler",
-  "cast": [
-    {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
-    },
-    {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
-    },
-    {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    },
-    {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
-    },
-    {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
-    },
-    {
-      "actor_name": "BURT",
-      "actor_last_name": "TEMPLE",
-      "Role in film": "VAL"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "DUSTIN"
-    }
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6641"
-  },
-  "title": "ALLEY EVOLUTION",
-  "release_date": "2011",
-  "film_director": "Tom Jones",
-  "cast": [
-    {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
-    },
-    {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
-    },
-    {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    },
-    {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
-    },
-    {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
-    },
-    {
-      "actor_name": "BURT",
-      "actor_last_name": "TEMPLE",
-      "Role in film": "VAL"
-    },
-    {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "DUSTIN"
-    },
-    {
-      "actor_name": "MATTHEW",
-      "actor_last_name": "CARREY",
-      "Role in film": "ALBERT"
+      "actor_name": "SYLVESTER",
+      "actor_last_name": "DERN",
+      "role_in_film": "ED"
     },
     {
       "actor_name": "KIRSTEN",
       "actor_last_name": "AKROYD",
-      "Role in film": "CAMERON"
+      "role_in_film": "WHOOPI"
+    },
+    {
+      "actor_name": "HUMPHREY",
+      "actor_last_name": "WILLIS",
+      "role_in_film": "PENELOPE"
+    },
+    {
+      "actor_name": "WHOOPI",
+      "actor_last_name": "HURT",
+      "role_in_film": "KENNETH"
+    },
+    {
+      "actor_name": "KENNETH",
+      "actor_last_name": "PALTROW",
+      "role_in_film": "EWAN"
+    },
+    {
+      "actor_name": "FAY",
+      "actor_last_name": "WOOD",
+      "role_in_film": "MORGAN"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6642"
+    "$oid": "5c23dd983d6b7e1694bef34b"
   },
-  "title": "ALONE TRIP",
-  "release_date": "1992",
-  "film_director": "Mark Knopfler",
+  "title": "ALAMO VIDEOTAPE",
+  "release_date": "1981",
+  "film_director": "Tom Jones",
   "cast": [
+    {
+      "actor_name": "GOLDIE",
+      "actor_last_name": "BRODY",
+      "role_in_film": "BELA"
+    },
     {
       "actor_name": "WILL",
       "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "role_in_film": "LIZA"
     },
     {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "actor_name": "BEN",
+      "actor_last_name": "WILLIS",
+      "role_in_film": "TOM"
     },
     {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
-    },
-    {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
+      "actor_name": "BETTE",
+      "actor_last_name": "NICHOLSON",
+      "role_in_film": "WARREN"
     },
     {
       "actor_name": "SPENCER",
       "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
+      "role_in_film": "TOM"
     },
     {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
+      "actor_name": "WARREN",
+      "actor_last_name": "JACKMAN",
+      "role_in_film": "MATTHEW"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23dd983d6b7e1694bef34c"
+  },
+  "title": "ALASKA PHANTOM",
+  "release_date": "1985",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor_name": "RENEE",
+      "actor_last_name": "TRACY",
+      "role_in_film": "MATTHEW"
     },
+    {
+      "actor_name": "LAURA",
+      "actor_last_name": "BRODY",
+      "role_in_film": "CAMERON"
+    },
+    {
+      "actor_name": "LIZA",
+      "actor_last_name": "BERGMAN",
+      "role_in_film": "MICHELLE"
+    },
+    {
+      "actor_name": "LIZA",
+      "actor_last_name": "BERGMAN",
+      "role_in_film": "BURT"
+    },
+    {
+      "actor_name": "BEN",
+      "actor_last_name": "WILLIS",
+      "role_in_film": "MAE"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23dd983d6b7e1694bef34d"
+  },
+  "title": "ALI FOREVER",
+  "release_date": "2009-5-101",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor_name": "ANGELINA",
+      "actor_last_name": "ASTAIRE",
+      "role_in_film": "RENEE"
+    },
+    {
+      "actor_name": "HARVEY",
+      "actor_last_name": "HOPE",
+      "role_in_film": "LIZA"
+    },
+    {
+      "actor_name": "GRETA",
+      "actor_last_name": "MALDEN",
+      "role_in_film": "KENNETH"
+    },
+    {
+      "actor_name": "CAMERON",
+      "actor_last_name": "STREEP",
+      "role_in_film": "LIZA"
+    },
+    {
+      "actor_name": "SEAN",
+      "actor_last_name": "WILLIAMS",
+      "role_in_film": "SIDNEY"
+    },
+    {
+      "actor_name": "BEN",
+      "actor_last_name": "WILLIS",
+      "role_in_film": "BETTE"
+    },
+    {
+      "actor_name": "MORGAN",
+      "actor_last_name": "WILLIAMS",
+      "role_in_film": "BETTE"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23dd983d6b7e1694bef34e"
+  },
+  "title": "ALICE FANTASIA",
+  "release_date": "1974-3-111",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor_name": "KIRSTEN",
+      "actor_last_name": "AKROYD",
+      "role_in_film": "BETTE"
+    },
+    {
+      "actor_name": "PENELOPE",
+      "actor_last_name": "MONROE",
+      "role_in_film": "SYLVESTER"
+    },
+    {
+      "actor_name": "BETTE",
+      "actor_last_name": "NICHOLSON",
+      "role_in_film": "ANGELINA"
+    },
+    {
+      "actor_name": "KENNETH",
+      "actor_last_name": "PALTROW",
+      "role_in_film": "CAMERON"
+    },
+    {
+      "actor_name": "WHOOPI",
+      "actor_last_name": "HURT",
+      "role_in_film": "NICK"
+    },
+    {
+      "actor_name": "FRANCES",
+      "actor_last_name": "DAY-LEWIS",
+      "role_in_film": "JOHNNY"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23dd983d6b7e1694bef34f"
+  },
+  "title": "ALIEN CENTER",
+  "release_date": "1996-6-21",
+  "film_director": "Tom Jones",
+  "cast": [
+    {
+      "actor_name": "MATTHEW",
+      "actor_last_name": "CARREY",
+      "role_in_film": "NICK"
+    },
+    {
+      "actor_name": "NICK",
+      "actor_last_name": "WAHLBERG",
+      "role_in_film": "LIZA"
+    },
+    {
+      "actor_name": "CAMERON",
+      "actor_last_name": "STREEP",
+      "role_in_film": "TOM"
+    },
+    {
+      "actor_name": "SPENCER",
+      "actor_last_name": "PECK",
+      "role_in_film": "SIDNEY"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23dd983d6b7e1694bef350"
+  },
+  "title": "ALLEY EVOLUTION",
+  "release_date": "1974-5-251",
+  "film_director": "Mark Knopfler",
+  "cast": [
+    {
+      "actor_name": "RENEE",
+      "actor_last_name": "TRACY",
+      "role_in_film": "MILLA"
+    },
+    {
+      "actor_name": "PENELOPE",
+      "actor_last_name": "MONROE",
+      "role_in_film": "TOM"
+    },
+    {
+      "actor_name": "MATTHEW",
+      "actor_last_name": "CARREY",
+      "role_in_film": "ROCK"
+    },
+    {
+      "actor_name": "BETTE",
+      "actor_last_name": "NICHOLSON",
+      "role_in_film": "MAE"
+    },
+    {
+      "actor_name": "KENNETH",
+      "actor_last_name": "PALTROW",
+      "role_in_film": "SEAN"
+    }
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23dd983d6b7e1694bef351"
+  },
+  "title": "ALONE TRIP",
+  "release_date": "1986",
+  "film_director": "Tom Jones",
+  "cast": [
     {
       "actor_name": "BURT",
       "actor_last_name": "TEMPLE",
-      "Role in film": "VAL"
+      "role_in_film": "MAE"
+    },
+    {
+      "actor_name": "MENA",
+      "actor_last_name": "HOPPER",
+      "role_in_film": "RENEE"
+    },
+    {
+      "actor_name": "WHOOPI",
+      "actor_last_name": "HURT",
+      "role_in_film": "WARREN"
+    },
+    {
+      "actor_name": "LAURA",
+      "actor_last_name": "BRODY",
+      "role_in_film": "LAURA"
+    },
+    {
+      "actor_name": "GOLDIE",
+      "actor_last_name": "BRODY",
+      "role_in_film": "KENNETH"
+    },
+    {
+      "actor_name": "RENEE",
+      "actor_last_name": "TRACY",
+      "role_in_film": "FRANCES"
+    },
+    {
+      "actor_name": "GRETA",
+      "actor_last_name": "MALDEN",
+      "role_in_film": "MORGAN"
+    },
+    {
+      "actor_name": "NICK",
+      "actor_last_name": "WAHLBERG",
+      "role_in_film": "LIZA"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6643"
+    "$oid": "5c23dd983d6b7e1694bef352"
   },
   "title": "ALTER VICTORY",
-  "release_date": "2006",
-  "film_director": "Mark Knopfler",
+  "release_date": "1997-11-231",
+  "film_director": "Tom Jones",
   "cast": [
     {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "actor_name": "PENELOPE",
+      "actor_last_name": "MONROE",
+      "role_in_film": "MENA"
     },
     {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "actor_name": "WARREN",
+      "actor_last_name": "JACKMAN",
+      "role_in_film": "GREGORY"
     },
     {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "actor_name": "BURT",
+      "actor_last_name": "POSEY",
+      "role_in_film": "FRANCES"
     },
     {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
+      "actor_name": "MAE",
+      "actor_last_name": "HOFFMAN",
+      "role_in_film": "TOM"
     },
     {
-      "actor_name": "SPENCER",
+      "actor_name": "WHOOPI",
+      "actor_last_name": "HURT",
+      "role_in_film": "RENEE"
+    },
+    {
+      "actor_name": "RENEE",
+      "actor_last_name": "TRACY",
+      "role_in_film": "LIZA"
+    },
+    {
+      "actor_name": "MILLA",
       "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
-    },
-    {
-      "actor_name": "FAY",
-      "actor_last_name": "WOOD",
-      "Role in film": "WILL"
+      "role_in_film": "GRETA"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6644"
+    "$oid": "5c23dd983d6b7e1694bef353"
   },
   "title": "AMADEUS HOLY",
-  "release_date": "1991",
-  "film_director": "Mark Knopfler",
+  "release_date": "1986-1-251",
+  "film_director": "Tom Jones",
   "cast": [
     {
-      "actor_name": "WILL",
+      "actor_name": "MORGAN",
+      "actor_last_name": "WILLIAMS",
+      "role_in_film": "TOM"
+    },
+    {
+      "actor_name": "SIDNEY",
+      "actor_last_name": "CROWE",
+      "role_in_film": "MICHELLE"
+    },
+    {
+      "actor_name": "TOM",
       "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "role_in_film": "MAE"
     },
     {
-      "actor_name": "NICK",
-      "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "actor_name": "RENEE",
+      "actor_last_name": "TRACY",
+      "role_in_film": "MICHELLE"
     },
     {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
-    },
-    {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    },
-    {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
+      "actor_name": "ED",
+      "actor_last_name": "MANSFIELD",
+      "role_in_film": "SYLVESTER"
     },
     {
       "actor_name": "FAY",
       "actor_last_name": "WOOD",
-      "Role in film": "WILL"
+      "role_in_film": "BETTE"
+    },
+    {
+      "actor_name": "NICK",
+      "actor_last_name": "WAHLBERG",
+      "role_in_film": "GROUCHO"
+    },
+    {
+      "actor_name": "NICK",
+      "actor_last_name": "STALLONE",
+      "role_in_film": "ROCK"
+    },
+    {
+      "actor_name": "ROCK",
+      "actor_last_name": "DUKAKIS",
+      "role_in_film": "ANGELA"
+    },
+    {
+      "actor_name": "FRANCES",
+      "actor_last_name": "DAY-LEWIS",
+      "role_in_film": "ANGELINA"
     }
   ]
 }
 {
   "_id": {
-    "$oid": "5c1d7fbe3d6b7e12b4ad6645"
+    "$oid": "5c23dd983d6b7e1694bef354"
   },
   "title": "AMELIE HELLFIGHTERS",
-  "release_date": "2001",
+  "release_date": "1994-7-11",
   "film_director": "Mark Knopfler",
   "cast": [
     {
-      "actor_name": "WILL",
-      "actor_last_name": "Harris",
-      "Role in film": "MINNIE"
+      "actor_name": "SEAN",
+      "actor_last_name": "WILLIAMS",
+      "role_in_film": "MATTHEW"
     },
     {
       "actor_name": "NICK",
       "actor_last_name": "WAHLBERG",
-      "Role in film": "JON"
+      "role_in_film": "WHOOPI"
     },
     {
-      "actor_name": "LAURA",
-      "actor_last_name": "BRODY",
-      "Role in film": "WOODY"
+      "actor_name": "GRETA",
+      "actor_last_name": "MALDEN",
+      "role_in_film": "KENNETH"
     },
     {
-      "actor_name": "LIZA",
-      "actor_last_name": "BERGMAN",
-      "Role in film": "GROUCHO"
-    },
-    {
-      "actor_name": "SPENCER",
-      "actor_last_name": "PECK",
-      "Role in film": "VIVIEN"
+      "actor_name": "TOM",
+      "actor_last_name": "Harris",
+      "role_in_film": "WARREN"
     }
   ]
 }

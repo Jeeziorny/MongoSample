@@ -1,21 +1,24 @@
+import builder.BookstoreGenerator;
 import builder.DatabaseGenerator;
+import builder.FilmLibraryGenerator;
 import com.mongodb.*;
 import com.mongodb.MongoClient;
+import com.mongodb.bulk.BulkWriteResult;
 import com.mongodb.client.*;
-import com.mongodb.client.model.Aggregates;
-import com.mongodb.client.model.Updates;
+import com.mongodb.client.model.*;
 import com.mongodb.client.result.DeleteResult;
 import com.mongodb.client.result.UpdateResult;
 import org.bson.Document;
+import org.bson.codecs.configuration.CodecRegistry;
 import org.bson.conversions.Bson;
-import org.bson.types.ObjectId;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
+import java.util.regex.Pattern;
 
 import static com.mongodb.client.model.Filters.*;
 import static com.mongodb.client.model.Projections.include;
+import static com.mongodb.client.model.Sorts.descending;
 import static java.lang.Thread.sleep;
 import static java.util.Arrays.asList;
 
@@ -38,28 +41,35 @@ public class MongoTest { //Director
 
   public static void main(String[] args) {
     MongoClient mongoClient = new MongoClient();
-//    mongoClient.dropDatabase("MFilmLibrary");
-//    mongoClient.dropDatabase("MBookstore");
-//    DatabaseGenerator generator = new FilmLibraryGenerator(mongoClient);
-//    MongoTest director = new MongoTest(generator);
+    mongoClient.dropDatabase("MFilmLibrary");
+    mongoClient.dropDatabase("MBookstore");
+    DatabaseGenerator generator = new FilmLibraryGenerator(mongoClient);
+    MongoTest director = new MongoTest(generator);
+    FilmLibraryDB = director.construct();
     FilmLibraryDB = mongoClient.getDatabase("MFilmLibrary");
-//    director.setGenerator(new BookstoreGenerator(mongoClient));
+    director.setGenerator(new BookstoreGenerator(mongoClient));
+    BookstoreDB = director.construct();
     BookstoreDB = mongoClient.getDatabase("MBookstore");
 
-    showCollectionInFilmLibrary();
-    showFilmWithDirector();
-    queryActors();
-    queryFilms();
-    harrisMovie();
-    dropActors();
-    deleteFederalInformation();
-
+//    showCollectionInFilmLibrary();
+//    showFilmWithDirector();
+//    queryActors();
+//    queryFilms();
+//    harrisMovie();
+//    dropActors();
+//    deleteFederalInformation();
+//    sortActorByAge();
+//    listAgents();
+//    listTitles();
+//    titleAuthorDirector(true);
+    bookAdaptation();
 
     try {
       sleep(2000);
     } catch (Exception e) {
       e.printStackTrace();
     }
+
   }
 
   /**
@@ -190,5 +200,138 @@ public class MongoTest { //Director
     Document command = new Document();
     command.put("$set", data);
     actors.updateMany(query, command);
+  }
+
+  /** Exercise 13
+   * lists all actors ordered by age (ascending)
+   */
+  private static void sortActorByAge() {
+    MongoCollection actors = FilmLibraryDB.getCollection("actors");
+    ArrayList<Document> doc = (ArrayList<Document>) actors.find()
+            .sort(descending("date_of_birth"))
+            .into(new ArrayList<Document>());
+    for (Document document : doc) {
+      System.out.println(document.get("first_name")+" "
+              +document.get("last_name")+" "+document.get("date_of_birth"));
+    }
+
+
+  }
+
+  /** Exercise 14
+   * Query agents who have no V, X and Q
+   * letter in last name
+   * AND
+   * have no V, X and Q in first name
+   * except this ones who's name is "KEVIN".
+   */
+  private static void listAgents() {
+    MongoCollection<Document> agents = FilmLibraryDB
+            .getCollection("agents");
+    FindIterable<Document> result = agents
+            .find(
+            and(
+                    regex("last_name", Pattern.compile("\\b[^VXQ]+\\b")),
+                    or(
+                            regex("first_name", Pattern.compile("\\b[^VXQ]+\\b")),
+                            regex("first_name", Pattern.compile("(KEVIN)"))
+                    )
+                    ,(eq("corporation", new Document("$exists", true))) //comment this line for query also agents with no corpo;
+            ));
+    System.out.println("For each agent with no other condition: ");
+    for (Document doco : result) {
+      System.out.println("first_name: "+doco.get("first_name")+
+                         ", last_name: "+doco.get("last_name"));
+    }
+  }
+
+  /** Exercise 15
+   * lists all title from BookstoreDB
+   */
+  private static void listTitles() {
+    FindIterable<Document> books =
+            BookstoreDB.getCollection("books").find();
+    for (Document doc : books) {
+      System.out.println(doc.get("title"));
+    }
+  }
+
+  /**
+   * Exercise 16
+   * List title of book, author of book
+   * and film_director of film whith
+   * the same title as book.
+   *
+   * Problem: $lookup is only available
+   * on collections in the same db
+   *
+   * @param print - when true its exercise 16,
+   *                   when false its part of exercise 17.
+   */
+  private static ArrayList<Document> titleAuthorDirector(boolean print) {
+    FindIterable<Document> films =
+            FilmLibraryDB.getCollection("films").find();
+    FindIterable<Document> books =
+            BookstoreDB.getCollection("books").find();
+    System.out.println(String.format("%-25s", "Title")+
+            String.format("%-25s", "Book author") +
+            String.format("%-25s", "Film director"));
+    ArrayList<Document> resultOfEx17 = new ArrayList<Document>();
+    for (Document book : books) {
+      for (Document film : films) {
+        if (book.get("title").equals(film.get("title")) && print) {
+          System.out.println(String.format("%-25s", book.get("title"))+
+                             String.format("%-25s", book.get("author")) +
+                             String.format("%-25s", film.get("film_director")));
+        }
+      }
+      if (!print) {
+        resultOfEx17.add(book);
+      }
+    }
+    return resultOfEx17;
+  }
+
+  /** Exercise 17 */
+  private static void bookAdaptation() {
+    ArrayList<Document> keyBooks =
+            titleAuthorDirector(false);
+    MongoCollection<Document> films =
+            FilmLibraryDB.getCollection("films");
+    Document result;
+    System.out.println(String.format("%-25s", "TYTUL FLMU")+
+            String.format("%-25s", "DATA FILMU")+
+            String.format("%-25s", "DATA KSIAZKI"));
+    for (Document book : keyBooks) {
+      result = films.find(
+              and(
+                      eq("title", book.get("title")),
+                      gt("release_date", book.get("release_date"))
+              )
+      ).first();
+
+      if (result != null && checkCharacters(result, book)) {
+        System.out.println(String.format("%-25s", result.get("title"))+
+                String.format("%-25s", result.get("release_date"))+
+                String.format("%-25s", book.get("release_date")));
+
+
+      }
+    }
+  }
+
+  private static boolean checkCharacters(Document film, Document book) {
+    ArrayList<String> mainCharacters = ((ArrayList) book.get("main_characters"));
+    ArrayList<Document> actors = (ArrayList)film.get("cast");
+    ArrayList<String> roles_in_films = new ArrayList<String>();
+    for (Document actor : actors) {
+      roles_in_films.add((String)actor.get("role_in_film"));
+    }
+    for (String name : mainCharacters) {
+      if (!roles_in_films.contains(name)) {
+        return false;
+      }
+    }
+    return true;
   }
 }

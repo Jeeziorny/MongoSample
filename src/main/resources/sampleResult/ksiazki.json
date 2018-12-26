@@ -1,212 +1,231 @@
 {
   "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5eb"
+    "$oid": "5c23e7863d6b7e22880fea1e"
   },
-  "author": "WILL WILSON",
+  "author": "WILL Harris",
   "title": "ACADEMY DINOSAUR",
-  "release_date": "2000",
+  "release_date": "1998",
   "main_characters": [
-    "WARREN",
-    "SALMA",
-    "HUMPHREY"
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5ec"
-  },
-  "author": "NICK WAHLBERG",
-  "title": "ACE GOLDFINGER",
-  "release_date": "2000",
-  "main_characters": [
-    "LIZA",
-    "ROCK"
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5ed"
-  },
-  "author": "LAURA BRODY",
-  "title": "ADAPTATION HOLES",
-  "release_date": "1993-2-231",
-  "main_characters": [
-    "MILLA",
-    "MENA"
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5ee"
-  },
-  "author": "LIZA BERGMAN",
-  "title": "AFFAIR PREJUDICE",
-  "release_date": "1990-12-01",
-  "main_characters": [
-    "SYLVESTER",
     "NICK",
-    "WHOOPI",
-    "WHOOPI",
-    "SUSAN",
-    "SEAN"
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5ef"
-  },
-  "author": "SPENCER PECK",
-  "title": "AFRICAN EGG",
-  "release_date": "2011-6-81",
-  "main_characters": [
-    "SUSAN",
-    "NICK",
-    "GREGORY",
-    "ED",
-    "MILLA",
+    "SIDNEY",
+    "MICHELLE",
+    "BURT",
     "CAMERON"
   ]
 }
 {
   "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5f0"
+    "$oid": "5c23e7873d6b7e22880fea1f"
   },
-  "author": "FAY WOOD",
-  "title": "AGENT TRUMAN",
-  "release_date": "2003-3-121",
+  "author": "NICK WAHLBERG",
+  "title": "ACE GOLDFINGER",
+  "release_date": "2015-4-01",
   "main_characters": [
-    "BURT",
-    "BURT"
+    "WHOOPI",
+    "MICHELLE",
+    "ROCK",
+    "ROCK",
+    "SALMA",
+    "MENA"
   ]
 }
 {
   "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5f1"
+    "$oid": "5c23e7873d6b7e22880fea20"
+  },
+  "author": "LAURA BRODY",
+  "title": "ADAPTATION HOLES",
+  "release_date": "1981",
+  "main_characters": [
+    "CAMERON",
+    "SUSAN",
+    "SUSAN",
+    "BURT",
+    "HARVEY",
+    "SUSAN"
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23e7873d6b7e22880fea21"
+  },
+  "author": "LIZA BERGMAN",
+  "title": "AFFAIR PREJUDICE",
+  "release_date": "1992",
+  "main_characters": [
+    "WHOOPI",
+    "SEAN",
+    "MICHELLE",
+    "SEAN",
+    "SUSAN"
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23e7873d6b7e22880fea22"
+  },
+  "author": "SPENCER PECK",
+  "title": "AFRICAN EGG",
+  "release_date": "1981",
+  "main_characters": [
+    "MICHELLE",
+    "SIDNEY",
+    "ROCK",
+    "CAMERON",
+    "SALMA"
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23e7873d6b7e22880fea23"
+  },
+  "author": "FAY WOOD",
+  "title": "AGENT TRUMAN",
+  "release_date": "2017",
+  "main_characters": [
+    "HARVEY",
+    "SYLVESTER",
+    "WHOOPI",
+    "HUMPHREY"
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23e7873d6b7e22880fea24"
   },
   "author": "BURT TEMPLE",
   "title": "AIRPLANE SIERRA",
-  "release_date": "2007-9-181",
+  "release_date": "1981-7-51",
   "main_characters": [
-    "SALMA",
-    "SALMA",
-    "MICHELLE",
+    "WHOOPI",
+    "HARVEY",
     "WHOOPI"
   ]
 }
 {
   "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5f2"
+    "$oid": "5c23e7873d6b7e22880fea25"
   },
   "author": "NICK WAHLBERG",
   "title": "AIRPORT POLLOCK",
-  "release_date": "1996",
+  "release_date": "1990-6-241",
   "main_characters": [
-    "HUMPHREY",
+    "MICHELLE",
+    "SEAN"
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23e7873d6b7e22880fea26"
+  },
+  "author": "MATTHEW CARREY",
+  "title": "ALABAMA DEVIL",
+  "release_date": "1974-8-171",
+  "main_characters": [
+    "CAMERON",
+    "TOM",
+    "TOM",
+    "WHOOPI"
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23e7873d6b7e22880fea27"
+  },
+  "author": "KIRSTEN AKROYD",
+  "title": "ALADDIN CALENDAR",
+  "release_date": "1988",
+  "main_characters": [
+    "LIZA",
+    "ED",
     "BURT",
+    "CAMERON",
+    "NICK",
+    "WHOOPI"
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23e7873d6b7e22880fea28"
+  },
+  "author": "RENEE TRACY",
+  "title": "ALAMO VIDEOTAPE",
+  "release_date": "1977-3-231",
+  "main_characters": [
+    "GREGORY",
+    "NICK",
     "SIDNEY",
+    "HARVEY",
+    "SIDNEY"
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23e7873d6b7e22880fea29"
+  },
+  "author": "ANGELINA ASTAIRE",
+  "title": "ALASKA PHANTOM",
+  "release_date": "1977-1-201",
+  "main_characters": [
+    "TOM",
+    "WARREN",
+    "MENA",
     "SALMA",
     "ED"
   ]
 }
 {
   "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5f3"
+    "$oid": "5c23e7873d6b7e22880fea2a"
   },
-  "author": "MATTHEW CARREY",
-  "title": "ALABAMA DEVIL",
-  "release_date": "2012-12-91",
+  "author": "CAMERON STREEP",
+  "title": "ALI FOREVER",
+  "release_date": "2000-7-231",
   "main_characters": [
-    "LIZA",
-    "MILLA",
-    "BURT",
+    "WHOOPI",
+    "SIDNEY",
     "MENA",
-    "WARREN"
+    "MICHELLE",
+    "NICK",
+    "LIZA"
   ]
 }
 {
   "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5f4"
+    "$oid": "5c23e7873d6b7e22880fea2b"
   },
-  "author": "KIRSTEN AKROYD",
-  "title": "ALADDIN CALENDAR",
-  "release_date": "2008",
+  "author": "MORGAN WILLIAMS",
+  "title": "ALICE FANTASIA",
+  "release_date": "1981",
   "main_characters": [
     "WARREN",
-    "SUSAN",
-    "HUMPHREY",
-    "WHOOPI"
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5f5"
-  },
-  "author": "RENEE TRACY",
-  "title": "ALAMO VIDEOTAPE",
-  "release_date": "1978-8-111",
-  "main_characters": [
-    "HARVEY",
-    "CAMERON",
-    "ROCK",
-    "BURT",
-    "SUSAN",
-    "WARREN"
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5f6"
-  },
-  "author": "ANGELINA ASTAIRE",
-  "title": "ALASKA PHANTOM",
-  "release_date": "1991",
-  "main_characters": [
-    "HUMPHREY",
-    "SIDNEY",
     "SIDNEY"
   ]
 }
 {
   "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5f7"
-  },
-  "author": "CAMERON STREEP",
-  "title": "ALI FOREVER",
-  "release_date": "2003-7-161",
-  "main_characters": [
-    "HARVEY",
-    "SUSAN",
-    "SUSAN"
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5f8"
-  },
-  "author": "MORGAN WILLIAMS",
-  "title": "ALICE FANTASIA",
-  "release_date": "2008",
-  "main_characters": [
-    "TOM",
-    "TOM",
-    "SUSAN",
-    "WARREN",
-    "SUSAN",
-    "MILLA"
-  ]
-}
-{
-  "_id": {
-    "$oid": "5c1aaf0d20d67e1af828b5f9"
+    "$oid": "5c23e7873d6b7e22880fea2c"
   },
   "author": "MAE HOFFMAN",
   "title": "ALIEN CENTER",
   "release_date": "1973",
   "main_characters": [
+    "LIZA",
+    "SUSAN",
     "SEAN",
-    "WARREN",
-    "ED",
-    "GREGORY",
-    "SUSAN"
+    "HUMPHREY",
+    "HUMPHREY"
+  ]
+}
+{
+  "_id": {
+    "$oid": "5c23e7873d6b7e22880fea2d"
+  },
+  "author": "Steve",
+  "title": "CIRCLE",
+  "release_date": "2000",
+  "main_characters": [
+    "rectangle",
+    "square"
   ]
 }

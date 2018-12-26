@@ -98,7 +98,7 @@ public class FilmLibraryGenerator implements DatabaseGenerator {
     for (int i = 0; i < limit; i++) {
       result.add(new Document("actor_name", actors.get(rand).getFirst_name())
                         .append("actor_last_name", actors.get(rand).getLast_name())
-                        .append("Role in film", actors
+                        .append("role_in_film", actors
                                 .get(randGenerator.nextInt(40)).getFirst_name()));
       actors.remove(rand);
       rand = randGenerator.nextInt(40);
@@ -170,9 +170,27 @@ public class FilmLibraryGenerator implements DatabaseGenerator {
     MongoCollection<Document> actorsCollection = MFilmLibrary.getCollection("actors");
     actorsCollection.insertOne(new Document("first_name", "Al")
                                       .append("nationality", getNationalities()));
-    ArrayList<Document> result = new ArrayList<Document>();
-    result.add(new Document("Country", "Australia"));
+    ArrayList<Document> nat = new ArrayList<Document>();
+    nat.add(new Document("Country", "Australia"));
     actorsCollection.insertOne(new Document("first_name", "Hugh")
-                                      .append("nationality", result));
+                                      .append("nationality", nat));
+
+    ArrayList<Document> newAgents = new ArrayList<Document>();
+    newAgents.add(new Document("first_name", "KEVIN")
+                      .append("last_name", "VALU"));
+    newAgents.add(new Document("first_name", "KEVIN")
+                      .append("last_name", "HANK"));
+    MFilmLibrary.getCollection("agents").insertMany(newAgents);
+    ArrayList<Document> cast = new ArrayList<Document>();
+    cast.add(new Document("actor_name", "Mark")
+            .append("actor_last_name", "Maco")
+            .append("role_in_film", "square"));
+    cast.add(new Document("actor_name", "Tony")
+            .append("actor_last_name", "Jake")
+            .append("role_in_film", "rectangle"));
+    MFilmLibrary.getCollection("films").insertOne(new Document("title", "CIRCLE")
+                            .append("release_date", "2020")
+                            .append("film_director", "Rafal Maserak")
+                            .append("cast", cast));
   }
 }
